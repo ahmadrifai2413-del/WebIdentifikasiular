@@ -1,0 +1,28 @@
+{
+  "source": "https://www.who.int/teams/control-of-neglected-tropical-diseases/snakebite-envenoming/treatment",
+  "intro": "Jika tergigit, segera cari pertolongan medis. Jangan menunggu hasil identifikasi AI.",
+  "steps": [
+    {
+      "title": "Jauhi ular",
+      "text": "Menjauh dari jangkauan ular tanpa menangkap atau membunuhnya."
+    },
+    {
+      "title": "Batasi gerakan",
+      "text": "Tenangkan korban dan sangga bagian yang tergigit agar tidak banyak bergerak."
+    },
+    {
+      "title": "Lepas benda ketat",
+      "text": "Lepas cincin, gelang, atau benda ketat sebelum bagian tubuh membengkak."
+    },
+    {
+      "title": "Segera ke fasilitas kesehatan",
+      "text": "Minta bantuan transportasi. Jangan menunggu gejala atau hasil aplikasi."
+    }
+  ],
+  "avoid": [
+    "Jangan menyayat luka atau mengisap bisa.",
+    "Jangan memasang torniket atau ikatan ketat.",
+    "Jangan menggunakan ramuan untuk menggantikan pertolongan medis.",
+    "Jangan menunda perawatan untuk menangkap ular."
+  ]
+}

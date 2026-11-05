@@ -1,0 +1,210 @@
+[
+  {
+    "id": "gonyosoma-oxycephalum",
+    "data": {
+      "id": "gonyosoma-oxycephalum",
+      "name": "Ular Bajing",
+      "english": "Red-tailed Green Ratsnake",
+      "scientific": "Gonyosoma oxycephalum",
+      "family": "Colubridae",
+      "venom": false,
+      "venomLabel": "Tidak berbisa",
+      "length": "Hingga 2,4 m",
+      "habitat": "Hutan & pepohonan",
+      "activity": "Terutama siang",
+      "diet": "Burung, telur, kadal, dan mamalia kecil",
+      "regions": [
+        "Sumatra",
+        "Jawa",
+        "Kalimantan",
+        "Nusa Tenggara"
+      ],
+      "description": "Ular penghuni pepohonan di Asia Tenggara dengan tubuh hijau dan ekor yang dapat berwarna kemerahan atau cokelat. Sisik perutnya membantu mencengkeram cabang saat memanjat. Di Indonesia, persebarannya mencakup Sumatra, Jawa, Kalimantan, dan beberapa pulau lainnya.",
+      "traits": [
+        "Tubuh hijau dengan ekor merah atau cokelat",
+        "Garis gelap melintasi mata",
+        "Tubuh memanjang, terampil memanjat"
+      ],
+      "image": "assets/images/gonyosoma-oxycephalum.jpg",
+      "credit": "Thai National Parks",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.thainationalparks.com/species/gonyosoma-oxycephalum",
+      "similar": [
+        "trimeresurus-albolabris"
+      ],
+      "color": "#c5e58b"
+    }
+  },
+  {
+    "id": "naja-sumatrana",
+    "data": {
+      "id": "naja-sumatrana",
+      "name": "Kobra Sumatra",
+      "english": "Equatorial Spitting Cobra",
+      "scientific": "Naja sumatrana",
+      "family": "Elapidae",
+      "venom": true,
+      "venomLabel": "Berbisa · berbahaya",
+      "length": "Umumnya 0,9–1,2 m",
+      "habitat": "Hutan & area permukiman",
+      "activity": "Terutama siang",
+      "diet": "Mamalia kecil, katak, kadal, dan ular",
+      "regions": [
+        "Sumatra",
+        "Kalimantan"
+      ],
+      "description": "Kobra penyembur yang tersebar di Asia Tenggara, termasuk Sumatra dan Kalimantan. Dapat dijumpai di hutan maupun lingkungan yang berdekatan dengan manusia. Spesies ini dapat menyemburkan bisa sebagai pertahanan; jangan mendekat untuk mencoba melihat tudungnya.",
+      "traits": [
+        "Dapat melebarkan tudung leher",
+        "Warna tubuh bervariasi menurut populasi",
+        "Mampu menyemburkan bisa"
+      ],
+      "image": "assets/images/naja-sumatrana.jpg",
+      "credit": "Angusticeps",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.thainationalparks.com/species/naja-sumatrana",
+      "similar": [
+        "bungarus-fasciatus"
+      ],
+      "color": "#d7bf8c"
+    }
+  },
+  {
+    "id": "malayopython-reticulatus",
+    "data": {
+      "id": "malayopython-reticulatus",
+      "name": "Sanca Kembang",
+      "english": "Reticulated Python",
+      "scientific": "Malayopython reticulatus",
+      "family": "Pythonidae",
+      "venom": false,
+      "venomLabel": "Tidak berbisa",
+      "length": "Dapat melebihi 6 m",
+      "habitat": "Hutan & tepian sungai",
+      "activity": "Terutama malam",
+      "diet": "Mamalia dan burung",
+      "regions": [
+        "Sumatra",
+        "Jawa",
+        "Kalimantan",
+        "Sulawesi",
+        "Nusa Tenggara",
+        "Maluku"
+      ],
+      "description": "Sanca besar dengan pola tubuh menyerupai jaring, tersebar luas di Asia Selatan dan Asia Tenggara. Ular ini merupakan perenang yang baik dan memangsa dengan membelit. Tidak berbisa bukan berarti aman disentuh: individu besar memiliki kekuatan yang berbahaya.",
+      "traits": [
+        "Pola geometris seperti jaring",
+        "Tubuh besar dan berotot",
+        "Perenang yang baik"
+      ],
+      "image": "assets/images/malayopython-reticulatus.jpg",
+      "credit": "Thai National Parks",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.thainationalparks.com/species/malayopython-reticulatus",
+      "similar": [],
+      "color": "#cabd93"
+    }
+  },
+  {
+    "id": "bungarus-fasciatus",
+    "data": {
+      "id": "bungarus-fasciatus",
+      "name": "Ular Welang",
+      "english": "Banded Krait",
+      "scientific": "Bungarus fasciatus",
+      "family": "Elapidae",
+      "venom": true,
+      "venomLabel": "Berbisa · berbahaya",
+      "length": "Umumnya sekitar 1,8 m",
+      "habitat": "Hutan & lahan pertanian",
+      "activity": "Terutama malam",
+      "diet": "Terutama ular lain",
+      "regions": [
+        "Sumatra",
+        "Jawa",
+        "Kalimantan"
+      ],
+      "description": "Welang dikenal dengan belang kuning dan hitam yang mengelilingi tubuhnya. Spesies ini aktif terutama pada malam hari dan dapat ditemukan di hutan, lahan pertanian, serta sekitar sumber air. Bisanya dapat menyebabkan gangguan saraf yang serius.",
+      "traits": [
+        "Belang kuning dan hitam mengelilingi tubuh",
+        "Punggung memiliki alur menonjol",
+        "Ujung ekor relatif tumpul"
+      ],
+      "image": "assets/images/bungarus-fasciatus.jpg",
+      "credit": "Thai National Parks",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.thainationalparks.com/species/bungarus-fasciatus",
+      "similar": [
+        "boiga-melanota"
+      ],
+      "color": "#e1cd76"
+    }
+  },
+  {
+    "id": "trimeresurus-albolabris",
+    "data": {
+      "id": "trimeresurus-albolabris",
+      "name": "Viper Bibir Putih",
+      "english": "White-lipped Pit Viper",
+      "scientific": "Trimeresurus albolabris",
+      "family": "Viperidae",
+      "venom": true,
+      "venomLabel": "Berbisa · berbahaya",
+      "length": "Hingga sekitar 81 cm",
+      "habitat": "Semak & pepohonan",
+      "activity": "Terutama malam",
+      "diet": "Katak, burung, dan mamalia kecil",
+      "regions": [
+        "Sumatra",
+        "Jawa"
+      ],
+      "description": "Viper pohon dengan tubuh dominan hijau dan bibir yang lebih terang. Beberapa ular hijau yang mirip telah dipisahkan menjadi spesies berbeda melalui penelitian taksonomi. Karena itu, warna saja tidak cukup untuk memastikan identitas ular ini.",
+      "traits": [
+        "Tubuh dominan hijau",
+        "Bagian bibir lebih pucat",
+        "Mirip dengan sejumlah viper hijau lainnya"
+      ],
+      "image": "assets/images/trimeresurus-albolabris.jpg",
+      "credit": "Thai National Parks",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.thainationalparks.com/species/trimeresurus-albolabris",
+      "similar": [
+        "gonyosoma-oxycephalum"
+      ],
+      "color": "#a3cf73"
+    }
+  },
+  {
+    "id": "boiga-melanota",
+    "data": {
+      "id": "boiga-melanota",
+      "name": "Ular Bakau Barat",
+      "english": "Western Mangrove Cat Snake",
+      "scientific": "Boiga melanota",
+      "family": "Colubridae",
+      "venom": true,
+      "venomLabel": "Berbisa · taring belakang",
+      "length": "Dapat mencapai 2,5 m",
+      "habitat": "Hutan & bakau",
+      "activity": "Terutama malam",
+      "diet": "Vertebrata kecil",
+      "regions": [
+        "Sumatra"
+      ],
+      "description": "Ular bertaring belakang yang sering dikenal lewat pola tubuh hitam dan kuning. Spesies ini tercatat di Sumatra dan Semenanjung Malaya. Nama Boiga melanota digunakan setelah pemisahan taksonomi dari kelompok Boiga dendrophila.",
+      "traits": [
+        "Tubuh hitam dengan pita kuning",
+        "Mata besar",
+        "Sering berada di vegetasi"
+      ],
+      "image": "assets/images/boiga-dendrophila.jpg",
+      "credit": "Thai National Parks",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://www.thainationalparks.com/species/boiga-melanota",
+      "similar": [
+        "bungarus-fasciatus"
+      ],
+      "color": "#d9b567"
+    }
+  }
+]

@@ -1,0 +1,586 @@
+{
+  "total": 125,
+  "enriched_profiles": 76,
+  "counts": {
+    "description": 125,
+    "length": 70,
+    "habitat": 95,
+    "activity": 61,
+    "diet": 59,
+    "traits": 71,
+    "venom": 40
+  },
+  "photos_included": 0,
+  "complete_in_six_biology_fields": 18,
+  "remaining": {
+    "acanthophis-laevis": [
+      "length",
+      "habitat",
+      "activity",
+      "traits"
+    ],
+    "acrochordus-granulatus": [
+      "length"
+    ],
+    "acrochordus-javanicus": [
+      "activity"
+    ],
+    "ahaetulla-prasina": [
+      "length"
+    ],
+    "asthenodipsas-laevis": [
+      "venom"
+    ],
+    "asthenodipsas-tropidonotus": [
+      "length",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "asthenodipsas-vertebralis": [
+      "venom"
+    ],
+    "boiga-bengkuluensis": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "boiga-cynodon": [
+      "venom"
+    ],
+    "boiga-dendrophila": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "boiga-irregularis": [
+      "venom"
+    ],
+    "boiga-jaspidea": [
+      "venom"
+    ],
+    "boiga-melanota": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "boiga-multomaculata": [
+      "diet",
+      "venom"
+    ],
+    "bungarus-candidus": [
+      "habitat",
+      "activity",
+      "diet"
+    ],
+    "calamaria-bicolor": [
+      "diet",
+      "venom"
+    ],
+    "calamaria-linnaei": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "calamaria-lumbricoidea": [
+      "venom"
+    ],
+    "calliophis-intestinalis": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "calloselasma-rhodostoma": [
+      "activity"
+    ],
+    "candoia-aspera": [
+      "activity",
+      "diet",
+      "venom"
+    ],
+    "candoia-carinata": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "candoia-paulsoni": [
+      "activity",
+      "venom"
+    ],
+    "chrysopelea-paradisi": [
+      "length",
+      "activity"
+    ],
+    "chrysopelea-pelias": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "coelognathus-erythrurus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "coelognathus-flavolineatus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "coelognathus-subradiatus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "craspedocephalus-andalasensis": [
+      "length",
+      "activity",
+      "diet",
+      "traits"
+    ],
+    "craspedocephalus-puniceus": [
+      "length",
+      "activity",
+      "diet",
+      "traits"
+    ],
+    "cylindrophis-melanotus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "cylindrophis-opisthorhodus": [
+      "length",
+      "venom",
+      "traits"
+    ],
+    "cylindrophis-ruffus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "daboia-siamensis": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "dendrelaphis-calligaster": [
+      "venom"
+    ],
+    "dendrelaphis-caudolineatus": [
+      "diet",
+      "venom"
+    ],
+    "dendrelaphis-formosus": [
+      "venom"
+    ],
+    "dendrelaphis-haasi": [
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "dendrelaphis-marenae": [
+      "length",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "dendrelaphis-pictus": [
+      "venom"
+    ],
+    "dendrelaphis-striatus": [
+      "diet",
+      "venom"
+    ],
+    "dendrelaphis-subocularis": [
+      "venom"
+    ],
+    "dendrelaphis-underwoodi": [
+      "length",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "dryophiops-rubescens": [
+      "venom"
+    ],
+    "elaphe-taeniura": [
+      "length",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "elapoidis-fusca": [
+      "length",
+      "diet",
+      "traits"
+    ],
+    "enhydris-enhydris": [
+      "activity"
+    ],
+    "fordonia-leucobalia": [
+      "activity",
+      "venom"
+    ],
+    "gongylosoma-baliodeira": [
+      "venom"
+    ],
+    "gonyosoma-jansenii": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "gonyosoma-oxycephalum": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "hebius-flavifrons": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "hypsiscopus-plumbea": [
+      "diet",
+      "venom"
+    ],
+    "indotyphlops-braminus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "laticauda-colubrina": [
+      "length"
+    ],
+    "laticauda-laticaudata": [
+      "activity",
+      "diet"
+    ],
+    "laticauda-semifasciata": [
+      "length",
+      "venom",
+      "traits"
+    ],
+    "leiopython-albertisii": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "liasis-mackloti": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "liopeltis-tricolor": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "lycodon-albofuscus": [
+      "venom"
+    ],
+    "lycodon-subannulatus": [
+      "habitat",
+      "activity",
+      "diet",
+      "venom"
+    ],
+    "lycodon-subcinctus": [
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "lycodon-tristrigatus": [
+      "venom"
+    ],
+    "malayopython-reticulatus": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "micropechis-ikaheca": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "traits"
+    ],
+    "morelia-azurea": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "naja-sputatrix": [
+      "length",
+      "activity",
+      "diet",
+      "traits"
+    ],
+    "naja-sumatrana": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "traits"
+    ],
+    "oligodon-bitorquatus": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "oligodon-octolineatus": [
+      "diet",
+      "venom"
+    ],
+    "oligodon-purpurascens": [
+      "venom"
+    ],
+    "ophiophagus-hannah": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "traits"
+    ],
+    "pareas-carinatus": [
+      "venom"
+    ],
+    "phytolopsis-punctata": [
+      "activity",
+      "venom"
+    ],
+    "psammodynastes-pictus": [
+      "activity"
+    ],
+    "psammodynastes-pulverulentus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "pseudorabdion-longiceps": [
+      "diet",
+      "venom"
+    ],
+    "pseudoxenodon-inornatus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "ptyas-carinata": [
+      "activity",
+      "diet",
+      "venom"
+    ],
+    "ptyas-fusca": [
+      "activity",
+      "venom"
+    ],
+    "ptyas-korros": [
+      "venom"
+    ],
+    "ptyas-mucosa": [
+      "activity",
+      "venom"
+    ],
+    "python-bivittatus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "python-breitensteini": [
+      "length",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "python-brongersmai": [
+      "habitat",
+      "activity",
+      "diet",
+      "venom"
+    ],
+    "rhabdophis-chrysargoides": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "rhabdophis-chrysargos": [
+      "activity",
+      "diet",
+      "venom"
+    ],
+    "rhabdophis-conspicillatus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "rhabdophis-flaviceps": [
+      "activity",
+      "venom"
+    ],
+    "rhabdophis-rhodomelas": [
+      "activity",
+      "venom"
+    ],
+    "rhabdophis-subminiatus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "sibynophis-geminatus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "sibynophis-melanocephalus": [
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "simalia-amethistina": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "simalia-tracyae": [
+      "length",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "stegonotus-batjanensis": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ],
+    "trimeresurus-albolabris": [
+      "activity",
+      "venom"
+    ],
+    "trimeresurus-insularis": [
+      "length",
+      "activity",
+      "diet",
+      "traits"
+    ],
+    "trimeresurus-purpureomaculatus": [
+      "diet"
+    ],
+    "trimeresurus-sabahi": [
+      "length",
+      "activity",
+      "diet",
+      "traits"
+    ],
+    "tropidolaemus-subannulatus": [
+      "activity"
+    ],
+    "xenelaphis-hexagonotus": [
+      "venom"
+    ],
+    "xenochrophis-maculatus": [
+      "venom"
+    ],
+    "xenochrophis-trianguligerus": [
+      "venom"
+    ],
+    "xenochrophis-vittatus": [
+      "venom"
+    ],
+    "xenodermus-javanicus": [
+      "length",
+      "habitat",
+      "activity",
+      "diet",
+      "venom",
+      "traits"
+    ]
+  },
+  "note": "Cakupan 125 label lengkap; rincian biologi belum seluruhnya terverifikasi. Tidak ada placeholder yang dihitung sebagai fakta."
+}

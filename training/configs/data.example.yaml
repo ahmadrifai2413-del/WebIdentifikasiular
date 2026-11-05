@@ -1,0 +1,14 @@
+{
+  "path": "../../datasets/processed/yolo",
+  "train": "images/train",
+  "val": "images/val",
+  "test": "images/test",
+  "names": [
+    "gonyosoma-oxycephalum",
+    "naja-sumatrana",
+    "malayopython-reticulatus",
+    "bungarus-fasciatus",
+    "trimeresurus-albolabris",
+    "boiga-melanota"
+  ]
+}

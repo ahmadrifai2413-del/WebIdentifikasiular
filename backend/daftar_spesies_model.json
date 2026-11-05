@@ -1,0 +1,502 @@
+[
+  {
+    "label": "acanthophis-laevis",
+    "id": "acanthophis-laevis"
+  },
+  {
+    "label": "acrochordus-granulatus",
+    "id": "acrochordus-granulatus"
+  },
+  {
+    "label": "acrochordus-javanicus",
+    "id": "acrochordus-javanicus"
+  },
+  {
+    "label": "ahaetulla-mycterizans",
+    "id": "ahaetulla-mycterizans"
+  },
+  {
+    "label": "ahaetulla-prasina",
+    "id": "ahaetulla-prasina"
+  },
+  {
+    "label": "aplopeltura-boa",
+    "id": "aplopeltura-boa"
+  },
+  {
+    "label": "asthenodipsas-laevis",
+    "id": "asthenodipsas-laevis"
+  },
+  {
+    "label": "asthenodipsas-tropidonotus",
+    "id": "asthenodipsas-tropidonotus"
+  },
+  {
+    "label": "asthenodipsas-vertebralis",
+    "id": "asthenodipsas-vertebralis"
+  },
+  {
+    "label": "boiga-bengkuluensis",
+    "id": "boiga-bengkuluensis"
+  },
+  {
+    "label": "boiga-cynodon",
+    "id": "boiga-cynodon"
+  },
+  {
+    "label": "boiga-dendrophila",
+    "id": "boiga-dendrophila"
+  },
+  {
+    "label": "boiga-drapiezii",
+    "id": "boiga-drapiezii"
+  },
+  {
+    "label": "boiga-irregularis",
+    "id": "boiga-irregularis"
+  },
+  {
+    "label": "boiga-jaspidea",
+    "id": "boiga-jaspidea"
+  },
+  {
+    "label": "boiga-melanota",
+    "id": "boiga-melanota"
+  },
+  {
+    "label": "boiga-multomaculata",
+    "id": "boiga-multomaculata"
+  },
+  {
+    "label": "boiga-nigriceps",
+    "id": "boiga-nigriceps"
+  },
+  {
+    "label": "bungarus-candidus",
+    "id": "bungarus-candidus"
+  },
+  {
+    "label": "bungarus-fasciatus",
+    "id": "bungarus-fasciatus"
+  },
+  {
+    "label": "bungarus-flaviceps",
+    "id": "bungarus-flaviceps"
+  },
+  {
+    "label": "calamaria-bicolor",
+    "id": "calamaria-bicolor"
+  },
+  {
+    "label": "calamaria-linnaei",
+    "id": "calamaria-linnaei"
+  },
+  {
+    "label": "calamaria-lumbricoidea",
+    "id": "calamaria-lumbricoidea"
+  },
+  {
+    "label": "calamaria-schlegeli",
+    "id": "calamaria-schlegeli"
+  },
+  {
+    "label": "calliophis-bivirgatus",
+    "id": "calliophis-bivirgatus"
+  },
+  {
+    "label": "calliophis-intestinalis",
+    "id": "calliophis-intestinalis"
+  },
+  {
+    "label": "calloselasma-rhodostoma",
+    "id": "calloselasma-rhodostoma"
+  },
+  {
+    "label": "candoia-aspera",
+    "id": "candoia-aspera"
+  },
+  {
+    "label": "candoia-carinata",
+    "id": "candoia-carinata"
+  },
+  {
+    "label": "candoia-paulsoni",
+    "id": "candoia-paulsoni"
+  },
+  {
+    "label": "cerberus-schneiderii",
+    "id": "cerberus-schneiderii"
+  },
+  {
+    "label": "chrysopelea-paradisi",
+    "id": "chrysopelea-paradisi"
+  },
+  {
+    "label": "chrysopelea-pelias",
+    "id": "chrysopelea-pelias"
+  },
+  {
+    "label": "coelognathus-erythrurus",
+    "id": "coelognathus-erythrurus"
+  },
+  {
+    "label": "coelognathus-flavolineatus",
+    "id": "coelognathus-flavolineatus"
+  },
+  {
+    "label": "coelognathus-radiatus",
+    "id": "coelognathus-radiatus"
+  },
+  {
+    "label": "coelognathus-subradiatus",
+    "id": "coelognathus-subradiatus"
+  },
+  {
+    "label": "craspedocephalus-andalasensis",
+    "id": "craspedocephalus-andalasensis"
+  },
+  {
+    "label": "craspedocephalus-puniceus",
+    "id": "craspedocephalus-puniceus"
+  },
+  {
+    "label": "cylindrophis-melanotus",
+    "id": "cylindrophis-melanotus"
+  },
+  {
+    "label": "cylindrophis-opisthorhodus",
+    "id": "cylindrophis-opisthorhodus"
+  },
+  {
+    "label": "cylindrophis-ruffus",
+    "id": "cylindrophis-ruffus"
+  },
+  {
+    "label": "daboia-siamensis",
+    "id": "daboia-siamensis"
+  },
+  {
+    "label": "dendrelaphis-calligaster",
+    "id": "dendrelaphis-calligaster"
+  },
+  {
+    "label": "dendrelaphis-caudolineatus",
+    "id": "dendrelaphis-caudolineatus"
+  },
+  {
+    "label": "dendrelaphis-formosus",
+    "id": "dendrelaphis-formosus"
+  },
+  {
+    "label": "dendrelaphis-haasi",
+    "id": "dendrelaphis-haasi"
+  },
+  {
+    "label": "dendrelaphis-inornatus",
+    "id": "dendrelaphis-inornatus"
+  },
+  {
+    "label": "dendrelaphis-marenae",
+    "id": "dendrelaphis-marenae"
+  },
+  {
+    "label": "dendrelaphis-pictus",
+    "id": "dendrelaphis-pictus"
+  },
+  {
+    "label": "dendrelaphis-striatus",
+    "id": "dendrelaphis-striatus"
+  },
+  {
+    "label": "dendrelaphis-subocularis",
+    "id": "dendrelaphis-subocularis"
+  },
+  {
+    "label": "dendrelaphis-underwoodi",
+    "id": "dendrelaphis-underwoodi"
+  },
+  {
+    "label": "dryophiops-rubescens",
+    "id": "dryophiops-rubescens"
+  },
+  {
+    "label": "elaphe-taeniura",
+    "id": "elaphe-taeniura"
+  },
+  {
+    "label": "elapoidis-fusca",
+    "id": "elapoidis-fusca"
+  },
+  {
+    "label": "enhydris-enhydris",
+    "id": "enhydris-enhydris"
+  },
+  {
+    "label": "fordonia-leucobalia",
+    "id": "fordonia-leucobalia"
+  },
+  {
+    "label": "fowlea-melanzostus",
+    "id": "fowlea-melanzostus"
+  },
+  {
+    "label": "gongylosoma-baliodeira",
+    "id": "gongylosoma-baliodeira"
+  },
+  {
+    "label": "gonyosoma-jansenii",
+    "id": "gonyosoma-jansenii"
+  },
+  {
+    "label": "gonyosoma-oxycephalum",
+    "id": "gonyosoma-oxycephalum"
+  },
+  {
+    "label": "hebius-flavifrons",
+    "id": "hebius-flavifrons"
+  },
+  {
+    "label": "homalopsis-buccata",
+    "id": "homalopsis-buccata"
+  },
+  {
+    "label": "hypsiscopus-plumbea",
+    "id": "hypsiscopus-plumbea"
+  },
+  {
+    "label": "indotyphlops-braminus",
+    "id": "indotyphlops-braminus"
+  },
+  {
+    "label": "laticauda-colubrina",
+    "id": "laticauda-colubrina"
+  },
+  {
+    "label": "laticauda-laticaudata",
+    "id": "laticauda-laticaudata"
+  },
+  {
+    "label": "laticauda-semifasciata",
+    "id": "laticauda-semifasciata"
+  },
+  {
+    "label": "leiopython-albertisii",
+    "id": "leiopython-albertisii"
+  },
+  {
+    "label": "liasis-mackloti",
+    "id": "liasis-mackloti"
+  },
+  {
+    "label": "liopeltis-tricolor",
+    "id": "liopeltis-tricolor"
+  },
+  {
+    "label": "lycodon-albofuscus",
+    "id": "lycodon-albofuscus"
+  },
+  {
+    "label": "lycodon-capucinus",
+    "id": "lycodon-capucinus"
+  },
+  {
+    "label": "lycodon-subannulatus",
+    "id": "lycodon-subannulatus"
+  },
+  {
+    "label": "lycodon-subcinctus",
+    "id": "lycodon-subcinctus"
+  },
+  {
+    "label": "lycodon-tristrigatus",
+    "id": "lycodon-tristrigatus"
+  },
+  {
+    "label": "malayopython-reticulatus",
+    "id": "malayopython-reticulatus"
+  },
+  {
+    "label": "micropechis-ikaheca",
+    "id": "micropechis-ikaheca"
+  },
+  {
+    "label": "morelia-azurea",
+    "id": "morelia-azurea"
+  },
+  {
+    "label": "naja-sputatrix",
+    "id": "naja-sputatrix"
+  },
+  {
+    "label": "naja-sumatrana",
+    "id": "naja-sumatrana"
+  },
+  {
+    "label": "oligodon-bitorquatus",
+    "id": "oligodon-bitorquatus"
+  },
+  {
+    "label": "oligodon-octolineatus",
+    "id": "oligodon-octolineatus"
+  },
+  {
+    "label": "oligodon-purpurascens",
+    "id": "oligodon-purpurascens"
+  },
+  {
+    "label": "ophiophagus-hannah",
+    "id": "ophiophagus-hannah"
+  },
+  {
+    "label": "pareas-carinatus",
+    "id": "pareas-carinatus"
+  },
+  {
+    "label": "phytolopsis-punctata",
+    "id": "phytolopsis-punctata"
+  },
+  {
+    "label": "psammodynastes-pictus",
+    "id": "psammodynastes-pictus"
+  },
+  {
+    "label": "psammodynastes-pulverulentus",
+    "id": "psammodynastes-pulverulentus"
+  },
+  {
+    "label": "pseudorabdion-longiceps",
+    "id": "pseudorabdion-longiceps"
+  },
+  {
+    "label": "pseudoxenodon-inornatus",
+    "id": "pseudoxenodon-inornatus"
+  },
+  {
+    "label": "ptyas-carinata",
+    "id": "ptyas-carinata"
+  },
+  {
+    "label": "ptyas-fusca",
+    "id": "ptyas-fusca"
+  },
+  {
+    "label": "ptyas-korros",
+    "id": "ptyas-korros"
+  },
+  {
+    "label": "ptyas-mucosa",
+    "id": "ptyas-mucosa"
+  },
+  {
+    "label": "python-bivittatus",
+    "id": "python-bivittatus"
+  },
+  {
+    "label": "python-breitensteini",
+    "id": "python-breitensteini"
+  },
+  {
+    "label": "python-brongersmai",
+    "id": "python-brongersmai"
+  },
+  {
+    "label": "rhabdophis-chrysargoides",
+    "id": "rhabdophis-chrysargoides"
+  },
+  {
+    "label": "rhabdophis-chrysargos",
+    "id": "rhabdophis-chrysargos"
+  },
+  {
+    "label": "rhabdophis-conspicillatus",
+    "id": "rhabdophis-conspicillatus"
+  },
+  {
+    "label": "rhabdophis-flaviceps",
+    "id": "rhabdophis-flaviceps"
+  },
+  {
+    "label": "rhabdophis-rhodomelas",
+    "id": "rhabdophis-rhodomelas"
+  },
+  {
+    "label": "rhabdophis-subminiatus",
+    "id": "rhabdophis-subminiatus"
+  },
+  {
+    "label": "sibynophis-geminatus",
+    "id": "sibynophis-geminatus"
+  },
+  {
+    "label": "sibynophis-melanocephalus",
+    "id": "sibynophis-melanocephalus"
+  },
+  {
+    "label": "simalia-amethistina",
+    "id": "simalia-amethistina"
+  },
+  {
+    "label": "simalia-tracyae",
+    "id": "simalia-tracyae"
+  },
+  {
+    "label": "stegonotus-batjanensis",
+    "id": "stegonotus-batjanensis"
+  },
+  {
+    "label": "trimeresurus-albolabris",
+    "id": "trimeresurus-albolabris"
+  },
+  {
+    "label": "trimeresurus-hageni",
+    "id": "trimeresurus-hageni"
+  },
+  {
+    "label": "trimeresurus-insularis",
+    "id": "trimeresurus-insularis"
+  },
+  {
+    "label": "trimeresurus-purpureomaculatus",
+    "id": "trimeresurus-purpureomaculatus"
+  },
+  {
+    "label": "trimeresurus-sabahi",
+    "id": "trimeresurus-sabahi"
+  },
+  {
+    "label": "trimeresurus-sumatranus",
+    "id": "trimeresurus-sumatranus"
+  },
+  {
+    "label": "tropidolaemus-subannulatus",
+    "id": "tropidolaemus-subannulatus"
+  },
+  {
+    "label": "tropidolaemus-wagleri",
+    "id": "tropidolaemus-wagleri"
+  },
+  {
+    "label": "xenelaphis-hexagonotus",
+    "id": "xenelaphis-hexagonotus"
+  },
+  {
+    "label": "xenochrophis-maculatus",
+    "id": "xenochrophis-maculatus"
+  },
+  {
+    "label": "xenochrophis-trianguligerus",
+    "id": "xenochrophis-trianguligerus"
+  },
+  {
+    "label": "xenochrophis-vittatus",
+    "id": "xenochrophis-vittatus"
+  },
+  {
+    "label": "xenodermus-javanicus",
+    "id": "xenodermus-javanicus"
+  },
+  {
+    "label": "xenopeltis-unicolor",
+    "id": "xenopeltis-unicolor"
+  }
+]
